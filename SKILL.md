@@ -20,8 +20,8 @@ Extract your Twitter/X bookmarks to JSON or Markdown format using Chrome DevTool
 ## Installation
 
 ```bash
-git clone https://github.com/lydakis/twitter-bookmarks-cli
-cd twitter-bookmarks-cli
+git clone https://github.com/lydakis/twitter-bookmarks
+cd twitter-bookmarks/cli
 swift build -c release
 ```
 
